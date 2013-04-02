@@ -1,0 +1,43 @@
+.floatLeft {
+	float: left;
+}
+.a {
+	width: 30%
+}
+.b {
+	width: 68%
+}
+.margin {
+	width: 15%
+}
+.marginOnCustomPaisehead, .marginOnCustomPaise {
+	padding: 1px 8px;
+	background-color: rgb(196, 166, 166)
+}
+.marginText {
+	padding: 1px 8px;
+	background-color: rgb(196, 166, 166)
+}
+.marginValue {
+	padding: 1px 5px;
+	background-color: rgb(214, 213, 213);
+}
+.marginShares {
+	padding: 1px 5px;
+	background-color: rgb(196, 166, 166)
+}
+.marginOn5Paise {
+	padding: 1px 8px;
+	background-color: rgb(214, 213, 213);
+}
+.marginOn10Paise {
+	padding: 1px 8px;
+	background-color: rgb(196, 166, 166)
+}
+.marginOn20Paise {
+	padding: 1px 8px;
+	background-color: rgb(214, 213, 213);
+}
+.error {
+	border: 1px solid red;
+}
